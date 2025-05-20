@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3",
+    "titulo": "Crônicas do Novo Mundo",
+    "autor": "João Castilho",
+    "editora": "Companhia das Letras",
+    "ano": 2025
+  },
+  {
+    "id": "4",
+    "titulo": "Neurorede",
+    "autor": "Ana C. Reis",
+    "editora": "Editora Futuro",
+    "ano": 2025
+  },
+  {
+    "id": "5",
+    "titulo": "Entre Marte e a Solidão",
+    "autor": "Diego Martins",
+    "editora": "Globo Livros",
+    "ano": 2025
+  }
+]
